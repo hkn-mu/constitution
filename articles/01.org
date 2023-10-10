@@ -1,19 +1,19 @@
-# Chapter Charter
+* Chapter Charter
 
-## Name
+** Name
 
 The name of this chapter shall be **Mu Chapter** of Eta Kappa Nu (HKN); hereafter referred to as the Chapter.
 On campus, the Chapter may be referred to as Mu Chapter of Eta Kappa Nu; Mu Chapter, Eta Kappa Nu; HKN; Eta Kappa Nu, Mu Chapter; or Eta Kappa Nu.
 
-## Location
+** Location
 
 This chapter shall be located at the Berkeley campus of the University of California.
 
-## Founding Date
+** Founding Date
 
 Mu Chapter was founded on December 18th, 1915.
 
-## Mission Statement
+** Mission Statement
 
 Eta Kappa Nu is the honor society comprised of Electrical Engineers and Computer Scientists.
 The mission of the Chapter is to recognize outstanding students, faculty, and professionals in IEEE technical fields of interest with a particular focus on the traditional fields of electrical engineering, computer engineering, and computer science.
@@ -21,7 +21,7 @@ IEEE-HKN chapters promote excellence in the profession and in education through 
 Chapters further strive to foster community and cooperation among its active members and the host department(s) as well as other local honor societies and the local IEEE student branch.
 The Chapter also encourages members to engage with the local community through service and outreach programs.
 
-## Purpose
+** Purpose
 
 The organization’s purpose are as follows:
 
@@ -32,6 +32,6 @@ The organization’s purpose are as follows:
 5. To foster relations with the local community through service and outreach.
 6. To cooperate with the other organizations on campus.
 
-## Symbols and Logos of the Chapter
+** Symbols and Logos of the Chapter
 
 The Chapter shall use the official symbols of IEEE-Eta Kappa Nu Chapter including the emblem, shield, and colors as detailed in the IEEE-Eta Kappa Nu Operations Manual.

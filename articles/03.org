@@ -1,16 +1,16 @@
-# Office, Records, and Trustees
+* Office, Records, and Trustees
 
-## Records
+** Records
 
 The records of the chapter, which include chapter correspondence, membership signature book, financial records (including checkbooks), chapter meeting minutes and other records deemed important, shall be located at 345 Soda.
 
-## Trustees
+** Trustees
 
 The trustee committee for the chapter shall consist of the EECS faculty at the University of California, Berkeley.
 The Faculty Advisor(s) of the chapter shall chair this committee.
 Upon the resignation of, or incapacity of said chair, the committee shall elect its chair from its membership.
 
-## Inactivity
+** Inactivity
 
 Should the chapter become inactive, the trustee committee shall:
 
