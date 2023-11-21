@@ -1,5 +1,7 @@
 name: "Export"
 on: [push]
+permissions:
+  contents: write
 
 jobs:
   export:
