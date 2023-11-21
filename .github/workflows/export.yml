@@ -7,10 +7,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Export Org files to GitHub Pages
         uses: tecosaur/org-knit-action@v0.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages
+          branch: github-pages
           # add PDFs
           export: html, pdf
+          files: index.org
